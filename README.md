@@ -15,15 +15,3 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
 </p>
-
-
-<br/>
-<h3 align="left"> Experiences 👨‍💻</h3>
-<p align="left">
-  AI Engineer at  <img src="https://user-images.githubusercontent.com/7986113/177697099-3d6b5fd9-d3fe-49c2-a820-980d48331bdb.png" height="26"/><br>
-  Algorithm Engineer at  <img src="https://www.jetro.go.jp/ext_images/_Newsroom/2017/1st/0123_a.png" height="24" /><br>
-  Research Engineer at <img src="http://interbattery.or.kr/wp-content/uploads/kboard_thumbnails/16/202105/60a24773e55263318949.jpg" height="13"/><br>
-  Master's degree at Electrical engineering & Computer science dept. of <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4ImoTLTQWA7kKbBTN_geACJVIATuXgM6ie27RM-RRd372PXx3iaT0Lu1bvgVogAViAg&usqp=CAU" height="20"/><br>
-  Research Intern at <img src="https://itc.kaist.ac.kr/resources/wis-layout/images/common/logo.png" height="20"/><br>
-  Bachelor's degree at Computer engineering dept. of <img src="https://blog.kakaocdn.net/dn/coVobL/btqyLKpKwtO/HkzwTCRHr4BQh7qwqEBkE0/img.jpg" height="25"/> <br>
-</p>
