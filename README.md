@@ -1,5 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=%20%20Sunho%20Kim%20%20&fontSize=40&textBg=true&fontAlign=30&desc=3D%20Vision%20Engineer&animation=twinkling&descAlign=65)
 
+
+
+
+<h3 align="center"> Try hard...! 😤 </h3>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Philipshrimp&theme=radical)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sunhokim)
 
 <h3 align="center"> Tech 😎 </h3>
